@@ -40,5 +40,17 @@ At the request of the Mayor of PyCity, students performances in standardized tes
 
 
 
+### Reading Scores by Grade
+
+![Reading Score Grade](https://raw.githubusercontent.com/skumble27/pandas-challenge/master/PyCitySchools/Images/6SchoolreadingGradeRanking.png)
+
+
+
+### Scores by School Spending
+
+![Scores based on Student Budget](https://raw.githubusercontent.com/skumble27/pandas-challenge/master/PyCitySchools/Images/7School_budget_score.png)
+
+
+
 
 
